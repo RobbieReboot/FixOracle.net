@@ -1,0 +1,26 @@
+﻿body
+{
+}
+
+.rhs 
+{
+	float:right;
+	width:120;	
+}
+.footer 
+{
+	position:fixed;
+	bottom:0;
+	right:0;
+}
+.offscreen
+{
+	color:White;
+	float:left;
+	margin:-2000px;
+}
+.center
+{
+    text-align:center;
+    margin-top:20px;
+}
