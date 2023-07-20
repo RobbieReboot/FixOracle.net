@@ -1,0 +1,10 @@
+D:\Projects\Legacy\Active\FixOracle.net\FixOracle.Net\bin\FixOracle.Net.dll.config
+D:\Projects\Legacy\Active\FixOracle.net\FixOracle.Net\bin\FixOracle.Net.dll
+D:\Projects\Legacy\Active\FixOracle.net\FixOracle.Net\bin\FixOracle.Net.pdb
+D:\Projects\Legacy\Active\FixOracle.net\FixOracle.Net\bin\OracleFix.dll
+D:\Projects\Legacy\Active\FixOracle.net\FixOracle.Net\bin\OracleFix.pdb
+D:\Projects\Legacy\Active\FixOracle.net\FixOracle.Net\obj\Debug\FixOracle.Net.csproj.AssemblyReference.cache
+D:\Projects\Legacy\Active\FixOracle.net\FixOracle.Net\obj\Debug\FixOracle.Net.csproj.CoreCompileInputs.cache
+D:\Projects\Legacy\Active\FixOracle.net\FixOracle.Net\obj\Debug\FixOracle.Net.csproj.CopyComplete
+D:\Projects\Legacy\Active\FixOracle.net\FixOracle.Net\obj\Debug\FixOracle.Net.dll
+D:\Projects\Legacy\Active\FixOracle.net\FixOracle.Net\obj\Debug\FixOracle.Net.pdb

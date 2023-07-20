@@ -1,0 +1,63 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="F62049B0-9FBA-4C53-9302-AFC890792AF7/d:__RESHARPER__DummyWebPages_/f:Stylesheet1.css" caret="141" scrollPosition="0|0" />
+      <File id="F62049B0-9FBA-4C53-9302-AFC890792AF7/d:__RESHARPER__DummyWebPages_/f:Site1.Master" caret="604" scrollPosition="0|0" />
+      <File id="F62049B0-9FBA-4C53-9302-AFC890792AF7/d:__RESHARPER__DummyWebPages_/f:Default.aspx" caret="1669" scrollPosition="0|0" />
+      <File id="F62049B0-9FBA-4C53-9302-AFC890792AF7/f:WebForm4.aspx.cs" caret="376" scrollPosition="0|0" />
+      <File id="F62049B0-9FBA-4C53-9302-AFC890792AF7/d:__RESHARPER__DummyWebPages_/f:WebForm4.aspx" caret="0" scrollPosition="0|0" />
+      <File id="F62049B0-9FBA-4C53-9302-AFC890792AF7/d:__RESHARPER__DummyWebPages_/f:WebForm2.aspx" caret="0" scrollPosition="0|0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="F62049B0-9FBA-4C53-9302-AFC890792AF7/d:__RESHARPER__DummyWebPages_/f:Default.aspx" caret="416" scrollPosition="0|0" />
+      <File id="F62049B0-9FBA-4C53-9302-AFC890792AF7/d:__RESHARPER__DummyWebPages_/f:Stylesheet1.css" caret="63" scrollPosition="0|0" />
+      <File id="F62049B0-9FBA-4C53-9302-AFC890792AF7/d:__RESHARPER__DummyWebPages_/f:Site1.Master" caret="604" scrollPosition="0|0" />
+      <File id="F62049B0-9FBA-4C53-9302-AFC890792AF7/d:__RESHARPER__DummyWebPages_/f:Stylesheet1.css" caret="141" scrollPosition="0|0" />
+      <File id="F62049B0-9FBA-4C53-9302-AFC890792AF7/d:__RESHARPER__DummyWebPages_/f:Site1.Master" caret="1062" scrollPosition="0|0" />
+      <File id="F62049B0-9FBA-4C53-9302-AFC890792AF7/d:__RESHARPER__DummyWebPages_/f:Default.aspx" caret="1352" scrollPosition="0|0" />
+      <File id="F62049B0-9FBA-4C53-9302-AFC890792AF7/d:__RESHARPER__DummyWebPages_/f:Default.aspx" caret="1669" scrollPosition="0|0" />
+      <File id="F62049B0-9FBA-4C53-9302-AFC890792AF7/f:WebForm4.aspx.cs" caret="376" scrollPosition="0|0" />
+      <File id="F62049B0-9FBA-4C53-9302-AFC890792AF7/d:__RESHARPER__DummyWebPages_/f:WebForm4.aspx" caret="155" scrollPosition="0|0" />
+      <File id="F62049B0-9FBA-4C53-9302-AFC890792AF7/d:__RESHARPER__DummyWebPages_/f:WebForm4.aspx" caret="581" scrollPosition="0|0" />
+      <File id="F62049B0-9FBA-4C53-9302-AFC890792AF7/d:__RESHARPER__DummyWebPages_/f:WebForm4.aspx" caret="334" scrollPosition="0|0" />
+      <File id="F62049B0-9FBA-4C53-9302-AFC890792AF7/d:__RESHARPER__DummyWebPages_/f:WebForm4.aspx" caret="729" scrollPosition="0|0" />
+      <File id="F62049B0-9FBA-4C53-9302-AFC890792AF7/d:__RESHARPER__DummyWebPages_/f:WebForm2.aspx" caret="3658" scrollPosition="0|0" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.CheckBox">
+      <Item value="Attributes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.AttributeCollection">
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Default">
+      <Item value="string" priority="0" />
+      <Item value="txt1" priority="2" />
+      <Item value="chk1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.TextBox">
+      <Item value="ClientID" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

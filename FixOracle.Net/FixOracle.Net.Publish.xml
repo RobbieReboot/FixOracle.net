@@ -1,0 +1,18 @@
+<publishData>
+  <publishTarget publishUrl="http://fixoracle.net/">
+    <file relUrl="images/fixoracletitle.png" publishTime="02/01/2009 22:51:43" />
+    <file relUrl="WebForm3.aspx" publishTime="02/07/2009 19:53:16" />
+    <file relUrl="Stylesheet1.css" publishTime="02/07/2009 19:53:16" />
+    <file relUrl="bin/FixOracle.Net.dll" publishTime="02/04/2009 07:20:51" />
+    <file relUrl="images/DAZZLA DENT DOCK.png" publishTime="02/07/2009 19:53:16" />
+    <file relUrl="bin/OracleFix.dll" publishTime="02/01/2009 20:27:26" />
+    <file relUrl="Web.config" publishTime="02/01/2009 23:46:39" />
+    <file relUrl="Default.aspx" publishTime="02/07/2009 19:53:16" />
+    <file relUrl="images/DAZZLA DENT CMD.png" publishTime="02/07/2009 19:53:16" />
+    <file relUrl="Site1.Master" publishTime="02/03/2009 23:37:10" />
+    <file relUrl="Global.asax" publishTime="02/03/2009 19:32:17" />
+    <file relUrl="bin/FixOracle.Net.pdb" publishTime="02/04/2009 07:20:51" />
+    <file relUrl="bin/OracleFix.pdb" publishTime="02/01/2009 20:27:26" />
+    <file relUrl="WebForm2.aspx" publishTime="02/07/2009 19:54:33" />
+  </publishTarget>
+</publishData>
